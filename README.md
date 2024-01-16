@@ -4,12 +4,12 @@
 Maven Roasters is a fictitious coffee shop operating out of three NYC locations. I will be analyzing sales data from Q1 and Q2 of 2023 to uncover insights relating to product performance, store operations, and forecasting Q3.
 
 #### QUESTIONS
-###### •	How have Maven Roasters sales trended over time?
-###### •	Which days of the week tend to be busiest, and why do you think that's the case? 
-###### •	Which times during the day are the busiest, and why do you think that’s the case?
-###### •	Which products are sold most often? Which drives the most revenue for the business? 
-###### •	What is the distribution of sales between all 3 locations for each product?
-###### •	What are your projections across product categories for Q3? 
+##### •	How have Maven Roasters sales trended over time?
+##### •	Which days of the week tend to be busiest, and why do you think that's the case? 
+##### •	Which times during the day are the busiest, and why do you think that’s the case?
+##### •	Which products are sold most often? Which drives the most revenue for the business? 
+##### •	What is the distribution of sales between all 3 locations for each product?
+##### •	What are your projections across product categories for Q3? 
 
 #### DATA
 The dataset includes details on transactions(date, timestamp, quantity), store(ID, location), and products(category, type, detail). 
