@@ -1,7 +1,7 @@
 # Coffee-Shop-Sales-Trend-Analysis-and-Forecast-in-Excel
 
 #### OVERVIEW
-Maven Roasters is a fictitious coffee shop operating out of three NYC locations. I will be analyzing sales data from Q1 and Q2 of 2023 to uncover insights relating to product performance, store operations, and forecasting Q3.
+Maven Roasters is a fictitious coffee shop operating out of three NYC locations. I will be analyzing sales data from Q1 and Q2 of 2023 to uncover insights relating to product performance, store operations, and forecasting Q3. From January 1st to June 30th, there was 149,116 transactions across the three locations. 
 
 #### QUESTIONS
 ##### •	How have Maven Roasters sales trended over time?
